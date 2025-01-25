@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Choiceugwuede
-- 👀 I’m interested in Exploring the data world!
-- 🌱 I’m currently learning Data Engineering
+- 🌱just a chill girl dabbling in the data engineering world
 - 💞️ I’m looking to collaborate on Data Engineering Projects
 - 📫 How to reach me: Send a message on **Linkedlin** @choiceugwuede
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: Unrelated but i can't ride a bicycle 🚴
 
 <!---
