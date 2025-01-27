@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Choiceugwuede
+- 👋 Hi, I’m Choice
 - 📫 How to reach me: Send a message on **Linkedlin** @choiceugwuede
 
 
